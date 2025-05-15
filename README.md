@@ -82,5 +82,7 @@ Feel free to explore, fork, and build on top of this pipeline for other language
 
 ## Team
 [Yash Shah](https://www.linkedin.com/in/yashshah1309) - yks@njit.edu
+
 [Durvish Paliwal](https://www.linkedin.com/in/durvishpaliwal) - dp2225@njit.edu
+
 [Pruthvi Kadam](https://www.linkedin.com/in/pruthvi-kadam-480aa7265) - pk759@njit.edu
