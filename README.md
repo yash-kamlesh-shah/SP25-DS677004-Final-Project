@@ -46,7 +46,7 @@ Implemented as a multi-step transformation process:
 ## 📂 Output Files
 
 - [seed parquet file](https://github.com/yash-kamlesh-shah/SP25-DS677004-Final-Project/blob/main/seed2_output_cleaned%20(2).parquet): Final cleaned seed dataset (C# code)
-- [I-R pair jsonl file](https://github.com/yash-kamlesh-shah/SP25-DS677004-Final-Project/blob/main/data-concept_gen-i_r-f14f6-0-20250515_052621%20(2).jsonl): Instruction-response pairs ready for training
+- [I-R pair jsonl file](https://huggingface.co/datasets/ykshah13/Instruction-Response-Pair-Dataset): Instruction-response pairs ready for training
 - Intermediate files saved between S→C→I→R stages for transparency and reproducibility
 
 ---
